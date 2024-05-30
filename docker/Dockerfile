@@ -1,0 +1,1 @@
+FROm rust:alpine
